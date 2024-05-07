@@ -1,0 +1,1 @@
+This contract allows lenders to deposit FIL, borrowers to borrow FIL by depositing collateral, and borrowers to repay their borrowed FIL. It also keeps track of the total FIL available for lending and the total FIL borrowed.
